@@ -1,0 +1,37 @@
+{
+ "title": "Tech Internships 2026–2027 (updated daily)",
+ "intro": "Software engineering, AI and machine learning, data, cloud and DevOps, security, product and hardware internships at companies hiring now, for summer 2027 and earlier starts.",
+ "feed": "https://jobseveryhour.com/api/v1/lists/tech-internships.json",
+ "page": "https://jobseveryhour.com/internships/",
+ "more": [
+  [
+   "All internships",
+   "https://jobseveryhour.com/internships/"
+  ],
+  [
+   "Entry-level jobs",
+   "https://jobseveryhour.com/entry-level/"
+  ],
+  [
+   "Remote entry-level jobs",
+   "https://jobseveryhour.com/remote/entry-level/"
+  ],
+  [
+   "Free resume builder",
+   "https://jobseveryhour.com/resume/"
+  ],
+  [
+   "Interview questions",
+   "https://jobseveryhour.com/interview-questions/"
+  ],
+  [
+   "New grad software engineer jobs",
+   "https://github.com/Simba0315/new-grad-software-engineer-jobs"
+  ],
+  [
+   "Remote software engineer jobs",
+   "https://github.com/Simba0315/remote-software-engineer-jobs"
+  ]
+ ],
+ "repo": "Simba0315/tech-internships-2027"
+}
