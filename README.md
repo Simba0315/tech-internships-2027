@@ -2,7 +2,7 @@
 
 Software engineering, AI and machine learning, data, cloud and DevOps, security, product and hardware internships at companies hiring now, for summer 2027 and earlier starts.
 
-**5,225 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**5,250 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/internships/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Clera** | [Strategic Operations Intern](https://jobseveryhour.com/job/strategic-operations-intern-clera-3/) | New York · Remote | — | 2026-11-21 |
 | **Lucid Motors** | [Intern, Exterior Design, Summer 2027](https://jobseveryhour.com/job/intern-exterior-design-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-20 |
 | **Lucid Motors** | [Intern, ADAS Platform Tools, Summer 2027](https://jobseveryhour.com/job/intern-adas-platform-tools-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-20 |
 | **Muon Space** | [Harness Design Co-Op](https://jobseveryhour.com/job/harness-design-co-op-muon-space/) | San Jose, CA | — | 2026-11-20 |
@@ -83,6 +84,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Lucid Motors** | [Product Security Engineering Intern, Summer 2027](https://jobseveryhour.com/job/product-security-engineering-intern-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-19 |
 | **Lucid Motors** | [Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027](https://jobseveryhour.com/job/intern-embedded-software-bsp-platform-adas-autonomous-drivin-lucid-motors/) | Newark, CA | — | 2026-11-19 |
 | **Lucid Motors** | [Intern, ADAS Systems, Summer 2027](https://jobseveryhour.com/job/intern-adas-systems-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-19 |
+| **NREL** | [Graduate Internship (Year-Round) - SI/Machine Learning Time Series Modeling](https://jobseveryhour.com/job/graduate-internship-year-round-ai-machine-learning-time-seri-nrel/) | Remote Site | — | 2026-11-20 |
+| **NREL** | [Graduate Intern – Power Data Analysis for SI Data Centers](https://jobseveryhour.com/job/graduate-intern-power-data-analysis-for-ai-data-centers-nrel/) | Golden, CO; Remote Site | — | 2026-11-20 |
 | **Pipecare** | [Technical Sales Engineer Intern](https://jobseveryhour.com/job/technical-sales-engineer-intern-pipecare/) | Zug, Switzerland | — |  |
 | **Aerotech** | [Co-Op Machinist Trainee at Aerotech](https://jobseveryhour.com/job/co-op-machinist-trainee-at-aerotech-aerotech/) | Pittsburgh, PA | — |  |
 | **Tarana Wireless** | [Hardware Test Engineer Intern](https://jobseveryhour.com/job/hardware-test-engineer-intern-tarana-wireless/) | Milpitas, CA | — | 2026-11-20 |
@@ -248,6 +251,12 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Motorola Solutions** | [Electrical Engineering Intern-Summer 2027](https://jobseveryhour.com/job/electrical-engineering-intern-summer-2027-motorola-solutions/) | Plantation, FL | — | 2026-11-19 |
 | **Altera** | [FPGA Software Engineer Intern](https://jobseveryhour.com/job/fpga-software-engineer-intern-altera/) | Toronto, Ontario, Canada | CA$95K - CA$100K | 2026-11-19 |
 | **Picton Mahoney Asset Management** | [Intern, Equity Research (Winter 2027)](https://jobseveryhour.com/job/intern-equity-research-winter-2027-picton-mahoney-asset-management/) | Toronto, Ontario, Canada | — | 2026-11-19 |
+| **Merck (MSD)** | [Intern – HBO AI/Machine Learning or Bachelor ICT AI – QA Packaging](https://jobseveryhour.com/job/intern-hbo-ai-machine-learning-or-bachelor-ict-ai-qa-packagi-merck-msd/) | NLD - North Brabant - Boxmeer | — | 2026-11-19 |
+| **Compassion** | [2027 Summer Internship - Data and Software Engineering](https://jobseveryhour.com/job/2027-summer-internship-data-and-software-engineering-compassion/) | USA - Global Ministry Center | — | 2026-11-19 |
+| **Faith Technologies** | [Engineering Project Management Internship](https://jobseveryhour.com/job/engineering-project-management-internship-faith-technologies/) | WI - Appleton | — | 2026-11-19 |
+| **Highmark Health** | [Summer 2027 Data Engineer & Analyst enGen Undergraduate Intern](https://jobseveryhour.com/job/summer-2027-data-engineer-analyst-engen-undergraduate-intern-highmark-health/) | Pittsburgh PA, 15222, PAP, Penn Avenue Place | — | 2026-11-19 |
+| **Highmark Health** | [Summer 2027 Risk & Compliance Solutions Analyst Undergraduate Intern](https://jobseveryhour.com/job/summer-2027-risk-compliance-solutions-analyst-undergraduate-highmark-health/) | Pittsburgh PA, 15222, FAP, 5th Avenue Place | — | 2026-11-19 |
+| **Highmark Health** | [Summer 2027 Network Cybersecurity Engineer Undergraduate Intern](https://jobseveryhour.com/job/summer-2027-network-cybersecurity-engineer-undergraduate-int-highmark-health/) | PA, Working at Home - Pennsylvania; MD, Working at Home - Maryland; WA, Working at Home - Washington · Remote | — | 2026-11-19 |
 | **Lucid Software** | [Product Management Internship - Summer 2027](https://jobseveryhour.com/job/product-management-internship-summer-2027-lucid-software-2/) | Salt Lake City, UT | — | 2026-11-18 |
 | **Lucid Software** | [Product Management Internship - Summer 2027](https://jobseveryhour.com/job/product-management-internship-summer-2027-lucid-software/) | Raleigh, NC | — | 2026-11-18 |
 | **Zoox** | [Process Improvement Intern [Summer 2027]](https://jobseveryhour.com/job/process-improvement-intern-summer-2027-zoox-2/) | Foster City, CA | — | 2026-11-18 |
@@ -301,15 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **RTX** | [Industrial Engineering Intern - Site Transformation (Summer 2027)](https://jobseveryhour.com/job/industrial-engineering-intern-site-transformation-summer-202-rtx/) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG | — | 2026-11-18 |
 | **Jabil** | [NPI Molding / Tooling Intern](https://jobseveryhour.com/job/npi-molding-tooling-intern-jabil/) | Devens, MA | — | 2026-11-18 |
 | **Leidos** | [Business Systems AI Intern](https://jobseveryhour.com/job/business-systems-ai-intern-leidos/) | 6314 Remote/Teleworker US | $48K - $87K | 2026-11-18 |
-| **Johnson Controls** | [Air Handling Product Management & Engineering Intern](https://jobseveryhour.com/job/air-handling-product-management-engineering-intern-johnson-controls/) | York-Pennsylvania-United States of America | — | 2026-11-18 |
-| **Valeo** | [Intern - R&D (Mechanical Simulation)](https://jobseveryhour.com/job/intern-r-d-mechanical-simulation-valeo/) | Chennai | — | 2026-11-18 |
-| **Visa** | [Consulting & Analytics Summer Intern](https://jobseveryhour.com/job/consulting-analytics-summer-intern-visa-3/) | PT - Lisbon, Portugal | — | 2026-11-18 |
-| **Visa** | [Consulting & Analytics Summer Intern (Dutch Speakers)](https://jobseveryhour.com/job/consulting-analytics-summer-intern-dutch-speakers-visa/) | NL - Amsterdam, Netherlands | — | 2026-11-18 |
-| **Analog Devices** | [Process Sustaining Engineering Intern](https://jobseveryhour.com/job/process-sustaining-engineering-intern-analog-devices/) | US, MA, Chelmsford, Alpha; US, MA, Wilmington | — | 2026-11-18 |
-| **Analog Devices** | [Equipment Engineering Intern](https://jobseveryhour.com/job/equipment-engineering-intern-analog-devices/) | US, MA, Wilmington | — | 2026-11-18 |
-| **Analog Devices** | [Design Evaluation Engineer Intern](https://jobseveryhour.com/job/design-evaluation-engineer-intern-analog-devices-2/) | US, MA, Wilmington | — | 2026-11-18 |
-| **Analog Devices** | [Analog Design Engineer Intern](https://jobseveryhour.com/job/analog-design-engineer-intern-analog-devices/) | US, CA, San Jose, Rio Robles | — | 2026-11-18 |
-| **Analog Devices** | [Digital Design Engineering Intern - Summer 2027](https://jobseveryhour.com/job/digital-design-engineering-intern-summer-2027-analog-devices/) | US, TX, Austin, Plaza on the Lake | — | 2026-11-18 |
 
 ## More
 
