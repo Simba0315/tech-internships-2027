@@ -2,7 +2,7 @@
 
 Software engineering, AI and machine learning, data, cloud and DevOps, security, product and hardware internships at companies hiring now, for summer 2027 and earlier starts.
 
-**5,769 open right now · updated 2026-11-24.** The list below shows the 300 newest. Jobs come from
+**5,931 open right now · updated 2026-11-24.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/internships/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,11 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Rubrik** | [Product Management Intern (MSP), Winter 2027](https://jobseveryhour.com/job/product-management-intern-msp-winter-2027-rubrik/) | Palo Alto, CA | — | 2026-11-24 |
+| **Senra Systems** | [Emerging Talent - Industrial Engineering Intern Summer 2027](https://jobseveryhour.com/job/emerging-talent-industrial-engineering-intern-summer-2027-senra-systems/) | Cypress, California, United States | — | 2026-11-24 |
+| **Pindel Global Precision** | [High School Intern machinist (paid) - during school year](https://jobseveryhour.com/job/high-school-intern-machinist-paid-during-school-year-pindel-global-precision/) | New Berlin, WI, USA | — | 2023-04-04 |
+| **Shield AI** | [2027 Summer Intern - Mechanical Engineering - 6436](https://jobseveryhour.com/job/2027-summer-intern-mechanical-engineering-6436-shield-ai/) | Dallas, TX, US | $35 - $75 an hour | 2026-11-24 |
+| **EMCOR Government Services** | [Project Engineer - INTERN](https://jobseveryhour.com/job/project-engineer-intern-emcor-government-services/) | Aurora, CO, US | — | 2026-11-24 |
 | **Lucid Motors** | [Intern, Automotive Interior Design, Summer 2027](https://jobseveryhour.com/job/intern-automotive-interior-design-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-23 |
 | **Shield AI** | [Electrical Engineering - 2027 January Co-Op](https://jobseveryhour.com/job/electrical-engineering-co-op-january-2027-shield-ai-2/) | Dallas, TX, US | $35 - $65 an hour | 2026-11-24 |
 | **Lucid Motors** | [Intern, IT Help Desk Level 3, Summer 2027](https://jobseveryhour.com/job/intern-it-help-desk-level-3-summer-2027-lucid-motors/) | Casa Grande, AZ | — | 2026-11-23 |
@@ -20,17 +25,68 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Instead** | [Software Engineering Intern](https://jobseveryhour.com/job/software-engineering-intern-instead/) | San Francisco | — | 2026-11-24 |
 | **Manulife** | [Full Stack Engineer Intern](https://jobseveryhour.com/job/full-stack-engineer-intern-manulife/) | Makati City | — | 2026-11-24 |
 | **Mondelez International** | [Integrated Lean Six Sigma (IL6S) Intern - Organization Pillar](https://jobseveryhour.com/job/integrated-lean-six-sigma-il6s-intern-organization-pillar-mondelez-international/) | Prai, Malaysia | — | 2026-11-24 |
+| **Monarch Behavioral Health** | [Internship - Post Doctoral](https://jobseveryhour.com/job/internship-post-doctoral-monarch-behavioral-health/) | San Antonio, TX | — |  |
+| **Black Cape** | [US Military Skillbridge Internship (Software Engineer)_Arlington, VA](https://jobseveryhour.com/job/us-military-skillbridge-internship-software-engineer-arlingt-black-cape/) | Arlington, VA | — |  |
+| **Unilever** | [Machine Operator Intern](https://jobseveryhour.com/job/machine-operator-intern-unilever/) | Jeddah, Saudi Arabia | — | 2026-11-24 |
+| **Magnum ICC MX S.DE R.L.DE** | [Data Scientist Intern](https://jobseveryhour.com/job/data-scientist-intern-magnum-icc-mx-s-de-r-l-de/) | Uffici Roma | — | 2026-11-24 |
+| **GE HealthCare** | [Advanced Visualization software engineering intern](https://jobseveryhour.com/job/advanced-visualization-software-engineering-intern-ge-healthcare-2/) | HUN02-01-Budapest-Vaci Greens C | — | 2026-11-24 |
+| **Ingredion** | [Intern in Demand Planning – Contract & Order Management and Digitalization (m/f/d) – Fixed-term (6 months)](https://jobseveryhour.com/job/intern-in-demand-planning-contract-order-management-and-digi-ingredion/) | Hamburg | — | 2026-11-24 |
+| **GE Vernova** | [GE Vernova Manufacturing Systems & SAP Integration Internship - Summer 2027](https://jobseveryhour.com/job/ge-vernova-manufacturing-systems-sap-integration-internship-ge-vernova/) | Charleroi USA | — | 2026-11-24 |
+| **GE Vernova** | [GE Vernova Manufacturing Quality & Digital Work Instructions Internship - Summer 2027](https://jobseveryhour.com/job/ge-vernova-manufacturing-quality-digital-work-instructions-i-ge-vernova/) | Charleroi USA | — | 2026-11-24 |
+| **GE Vernova** | [GE Vernova MES Implementation & Manufacturing Data Internship - Summer 2027](https://jobseveryhour.com/job/ge-vernova-mes-implementation-manufacturing-data-internship-ge-vernova/) | Charleroi USA | — | 2026-11-24 |
+| **GE Vernova** | [GE Vernova Robotics & Manufacturing Automation Internship - Summer 2027](https://jobseveryhour.com/job/ge-vernova-robotics-manufacturing-automation-internship-summ-ge-vernova/) | Charleroi USA | — | 2026-11-24 |
+| **Hitachi** | [Data and Business Intelligence Analyst, Intern](https://jobseveryhour.com/job/data-and-business-intelligence-analyst-intern-hitachi/) | Toronto, Ontario, Canada | — | 2026-11-24 |
+| **Hitachi** | [Internship - Associate Quality Engineer](https://jobseveryhour.com/job/internship-associate-quality-engineer-hitachi/) | Dammam, Eastern Region, Saudi Arabia | — | 2026-11-24 |
+| **Hitachi** | [Internship Continuous Improvement(SV)](https://jobseveryhour.com/job/internship-continuous-improvement-sv-hitachi/) | Hitachi, Ibaraki, Japan | — | 2026-11-24 |
+| **Hitachi** | [Internship Project manager(SV)](https://jobseveryhour.com/job/internship-project-manager-sv-hitachi/) | Hitachi, Ibaraki, Japan | — | 2026-11-24 |
+| **UPS** | [2027 Americas Region Industrial Engineering Spring Intern](https://jobseveryhour.com/job/2027-americas-region-industrial-engineering-spring-intern-ups/) | US - UPS CORPORATE OFFICES (GACOR) | — | 2026-11-24 |
+| **General Motors** | [2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management](https://jobseveryhour.com/job/2027-summer-intern-business-operations-cost-optimization-cad-general-motors/) | Milford, Michigan, United States of America | — | 2026-11-24 |
+| **General Motors** | [2027 Summer Intern – Software Verification Engineer, AV/AI Platform](https://jobseveryhour.com/job/2027-summer-intern-software-verification-engineer-av-ai-plat-general-motors/) | Warren, Michigan, United States of America | — | 2026-11-24 |
+| **Bloom Energy** | [Manufacturing Engineer Interns – Tool Installation & Equipment Ramp](https://jobseveryhour.com/job/manufacturing-engineer-interns-tool-installation-equipment-r-bloom-energy-2/) | Fremont, California | — | 2026-11-24 |
+| **Bloom Energy** | [Manufacturing Engineer Interns – Tool Installation & Equipment Ramp](https://jobseveryhour.com/job/manufacturing-engineer-interns-tool-installation-equipment-r-bloom-energy-3/) | Fremont, California | — | 2026-11-24 |
+| **Bloom Energy** | [Manufacturing Engineer Interns – Tool Installation & Equipment Ramp](https://jobseveryhour.com/job/manufacturing-engineer-interns-tool-installation-equipment-r-bloom-energy-4/) | Fremont, California | — | 2026-11-24 |
+| **Bloom Energy** | [Electrical Engineering Intern](https://jobseveryhour.com/job/electrical-engineering-intern-bloom-energy-2/) | Newark, Delaware | — | 2026-11-24 |
+| **ModernaTX** | [2027 Co-Op, mRNA Design Engineering](https://jobseveryhour.com/job/2027-co-op-mrna-design-engineering-modernatx-3/) | Cambridge, Massachusetts; Clinical Development | — | 2026-11-24 |
+| **Vertex US Distribution** | [Summer 2027 Internship, Biostatistics](https://jobseveryhour.com/job/summer-2027-internship-biostatistics-vertex-us-distribution/) | Boston, MA | — | 2026-11-24 |
+| **Cadence** | [Intern Software Engineer, Summer 2027, Three Month Duration](https://jobseveryhour.com/job/intern-software-engineer-summer-2027-three-month-duration-cadence-3/) | EDINBURGH 01 | — | 2026-11-24 |
+| **Manulife** | [Winter Co-op 2027 - Canadian Operations Analyst (8 Months)](https://jobseveryhour.com/job/winter-co-op-2027-canadian-operations-analyst-8-months-manulife/) | Toronto, Ontario; Waterloo, Ontario; Halifax, Nova Scotia | CA$45K - CA$58K | 2026-11-24 |
+| **First PREMIER Bank** | [PREMIER Marketing Analytics Internship](https://jobseveryhour.com/job/premier-marketing-analytics-internship-first-premier-bank/) | Sioux Falls, SD | — | 2026-11-24 |
+| **KEITH** | [Civil Engineering Internship - Summer 2027](https://jobseveryhour.com/job/civil-engineering-internship-summer-2027-keith-3/) | Port Saint Lucie, FL | — | 2026-11-24 |
+| **KEITH** | [Civil Engineering Internship - Summer 2027](https://jobseveryhour.com/job/civil-engineering-internship-summer-2027-keith-4/) | West Palm Beach, FL | — | 2026-11-24 |
+| **KEITH** | [Landscape Architect Intern / Co-op](https://jobseveryhour.com/job/landscape-architect-intern-co-op-keith-2/) | Pompano Beach, FL | — | 2026-11-24 |
+| **KEITH** | [Survey and Mapping Internship - Summer 2027](https://jobseveryhour.com/job/survey-and-mapping-internship-summer-2027-keith-2/) | Pompano Beach, FL | — | 2026-11-24 |
+| **KEITH** | [Transportation - Civil Engineering Internship - Summer 2027](https://jobseveryhour.com/job/transportation-civil-engineering-internship-summer-2027-keith-3/) | Pompano Beach, FL | — | 2026-11-24 |
+| **KEITH** | [Transportation - Civil Engineering Internship - Summer 2027](https://jobseveryhour.com/job/transportation-civil-engineering-internship-summer-2027-keith-4/) | Miami, FL | — | 2026-11-24 |
 | **Illumio** | [Product Manager Intern](https://jobseveryhour.com/job/product-manager-intern-illumio/) | Sunnyvale, California - HQ | $47 an hour | 2026-11-23 |
 | **Illumio** | [Technical Product Management Intern](https://jobseveryhour.com/job/technical-product-management-intern-illumio/) | Sunnyvale, California - HQ | $37 an hour | 2026-11-23 |
 | **Illumio** | [Engineering Intern, Security Platforms](https://jobseveryhour.com/job/engineering-intern-security-platforms-illumio/) | Sunnyvale, California - HQ | $37 an hour | 2026-11-23 |
 | **Illumio** | [Product Management Intern, Solution Economics](https://jobseveryhour.com/job/product-management-intern-solution-economics-illumio/) | Sunnyvale, California - HQ | $37 an hour | 2026-11-23 |
 | **Illumio** | [Technical Program Manager Intern](https://jobseveryhour.com/job/technical-program-manager-intern-illumio/) | Sunnyvale, California - HQ | $37 an hour | 2026-11-23 |
+| **Lockwood Andrews & Newnam** | [Intern, Stormwater (Summer 2027)](https://jobseveryhour.com/job/intern-stormwater-summer-2027-lockwood-andrews-newnam-2/) | San Antonio, TX, USA | — | 2026-11-23 |
+| **Lockwood Andrews & Newnam** | [Intern, Wastewater (Summer 2027)](https://jobseveryhour.com/job/intern-wastewater-summer-2027-lockwood-andrews-newnam/) | Oakbrook Terrace, IL, USA | — | 2026-11-23 |
+| **Lockwood Andrews & Newnam** | [Intern, Stormwater (Summer 2027)](https://jobseveryhour.com/job/intern-stormwater-summer-2027-lockwood-andrews-newnam/) | Houston, TX, USA | — | 2026-11-23 |
 | **Nuro** | [Technical Program Manager, Systems Intern](https://jobseveryhour.com/job/technical-program-manager-systems-intern-nuro/) | Mountain View, California (HQ) | — | 2026-11-23 |
-| **Electrosonic** | [Finance Intern - ERP Support (Temporary / Part Time)](https://jobseveryhour.com/job/finance-intern-erp-support-temporary-part-time-electrosonic/) | United Kingdom | — | 2026-11-23 |
+| **Electrosonic** | [Finance Intern - ERP Support (Temporary, Part Time)](https://jobseveryhour.com/job/finance-intern-erp-support-temporary-part-time-electrosonic/) | United Kingdom | — | 2026-11-23 |
+| **Capital Technology Group** | [Summer Internship - Data Engineering and Data Science](https://jobseveryhour.com/job/summer-internship-data-engineering-and-data-science-capital-technology-group/) | Hybrid (Silver Spring, MD) | — | 2026-11-23 |
+| **Workstream** | [Wearable Devices Engineer Intern](https://jobseveryhour.com/job/wearable-devices-engineer-intern-workstream/) | San Francisco, CA | — | 2026-11-23 |
+| **Samsung Research America Internship** | [2027 Spring/Summer Intern, Computer Vision](https://jobseveryhour.com/job/2027-spring-summer-intern-computer-vision-samsung-research-america-internship/) | 665 Clyde Avenue, Mountain View, CA, USA | — | 2026-11-23 |
+| **Samsung Research America Internship** | [2027 Spring/Summer PhD Intern, AI Research](https://jobseveryhour.com/job/2027-spring-summer-phd-intern-ai-research-samsung-research-america-internship/) | 665 Clyde Avenue, Mountain View, CA, USA | — | 2026-11-23 |
+| **Voltify** | [Intern - Technician](https://jobseveryhour.com/job/intern-technician-voltify/) | Cerritos, California, United States | $15 - $25 an hour | 2026-11-23 |
 | **Shield AI** | [2027 Summer Intern - Software Engineering - 5815](https://jobseveryhour.com/job/2027-summer-intern-software-engineering-5815-shield-ai/) | Dallas, TX, US | $35 - $75 an hour | 2026-11-23 |
 | **Oscar Health** | [Software Engineering Intern](https://jobseveryhour.com/job/software-engineering-intern-oscar-health/) | New York, New York, United States | — | 2026-11-23 |
-| **Senra Systems** | [Emerging Talent - Manufacturing Engineering Intern Summer 2027](https://jobseveryhour.com/job/emerging-talent-manufacturing-engineering-intern-summer-2027-senra-systems/) | Redondo Beach, California, United States | — | 2026-11-23 |
+| **Voltify** | [Intern - Business Operations](https://jobseveryhour.com/job/intern-business-operations-voltify/) | Cerritos, California, United States | $10 - $20 an hour | 2026-11-23 |
+| **Seasats** | [Electronics Engineering Intern](https://jobseveryhour.com/job/electronics-engineering-intern-seasats/) | San Diego, California, United States | $30 an hour | 2026-11-23 |
+| **Senra Systems** | [Emerging Talent - Manufacturing Engineering Intern Summer 2027](https://jobseveryhour.com/job/emerging-talent-manufacturing-engineering-intern-summer-2027-senra-systems/) | Cypress, California, United States | — | 2026-11-23 |
+| **Hut 8** | [Preconstruction Intern](https://jobseveryhour.com/job/preconstruction-intern-hut-8/) | Miami, FL | — | 2026-11-23 |
+| **apexanalytix** | [Software Engineering Intern, Platform Tooling](https://jobseveryhour.com/job/software-engineering-intern-platform-tooling-apexanalytix/) | Greensboro, NC | — | 2026-11-23 |
 | **Benchling** | [Software Engineer, Intern (Summer 2027)](https://jobseveryhour.com/job/software-engineer-intern-summer-2027-benchling/) | San Francisco, CA | $60 an hour | 2026-11-23 |
+| **Newcomb & Boyd** | [Mechanical Engineering Intern – Campus & Research](https://jobseveryhour.com/job/mechanical-engineering-intern-campus-research-newcomb-boyd/) | Durham, NC, USA | — | 2026-11-23 |
+| **Minnesota Childrens Museum** | [Exhibit Fabrication Intern](https://jobseveryhour.com/job/exhibit-fabrication-intern-minnesota-childrens-museum/) | Saint Paul, MN, USA | — | 2026-11-23 |
+| **Harmattan Ai** | [Mechatronics Engineer Intern - Automated UAV Calibration](https://jobseveryhour.com/job/mechatronics-engineer-intern-automated-uav-calibration-harmattan-ai/) | Lausanne | — | 2026-11-23 |
+| **General Dynamics Mission Systems** | [ASIC/FPGA Engineer - Intern](https://jobseveryhour.com/job/asic-fpga-engineer-intern-general-dynamics-mission-systems/) | Scottsdale, AZ, US | — | 2026-11-23 |
+| **HOPE International** | [Strategy and Operations Intern (HfH)](https://jobseveryhour.com/job/strategy-and-operations-intern-hfh-hope-international/) | Lancaster, PA, US | — | 2026-11-23 |
+| **Federated Mutual Insurance** | [Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://jobseveryhour.com/job/risk-consultant-intern-summer-2027-metro-atlanta-georgia-federated-mutual-insurance/) | Atlanta, GA, US | — | 2026-11-23 |
+| **Dewberry** | [Construction Management Intern](https://jobseveryhour.com/job/construction-management-intern-dewberry/) | Rancho Cordova, CA, US | — | 2026-11-23 |
 | **IntelliGenesis** | [Applied Data Scientist Internship (DoW SkillBridge)](https://jobseveryhour.com/job/applied-data-scientist-internship-dow-skillbridge-intelligenesis/) | Columbia, MD | — |  |
 | **IntelliGenesis** | [Cyber Analyst Internship (DoW SkillBridge)](https://jobseveryhour.com/job/cyber-analyst-internship-dow-skillbridge-intelligenesis/) | Columbia, MD | — |  |
 | **Apex Engineering** | [Civil Engineering Intern](https://jobseveryhour.com/job/civil-engineering-intern-apex-engineering/) | (Multiple states) | — |  |
@@ -70,12 +126,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Franklin Electric** | [Summer 2027 - IT Operations Intern](https://jobseveryhour.com/job/summer-2027-it-operations-intern-franklin-electric/) | Fort Wayne, Indiana | — |  |
 | **Impulse Space** | [Manufacturing Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/manufacturing-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $30 an hour |  |
 | **Impulse Space** | [Avionics Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/avionics-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $32 an hour |  |
-| **Impulse Space** | [Space Operations Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/space-operations-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $30 an hour |  |
 | **Impulse Space** | [Propulsion Test Engineering Intern (Mojave - Summer 2027)](https://jobseveryhour.com/job/propulsion-test-engineering-intern-mojave-summer-2027-impulse-space/) | Mojave, California | $30 an hour |  |
 | **Impulse Space** | [Assembly, Integration, and Test (AI&T) Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/assembly-integration-and-test-ai-t-engineering-intern-summer-impulse-space/) | Redondo Beach, California | $30 an hour |  |
 | **Impulse Space** | [Information Security Intern (Summer 2027)](https://jobseveryhour.com/job/information-security-intern-summer-2027-impulse-space/) | Redondo Beach, California | $30 an hour |  |
-| **Impulse Space** | [Flight/Embedded Software Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/flight-embedded-software-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $32 an hour |  |
-| **Impulse Space** | [EMC Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/emc-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $32 an hour |  |
 | **Impulse Space** | [Development Test Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/development-test-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $30 an hour |  |
 | **Impulse Space** | [Test Automation Intern (Summer 2027)](https://jobseveryhour.com/job/test-automation-intern-summer-2027-impulse-space/) | Redondo Beach, California | $30 an hour |  |
 | **Impulse Space** | [Enterprise Software Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/enterprise-software-engineering-intern-summer-2027-impulse-space/) | Redondo Beach, California | $32 an hour |  |
@@ -96,13 +149,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Medtronic** | [Intern engineering](https://jobseveryhour.com/job/intern-engineering-medtronic-2/) | Tijuana, Baja California, Mexico | — | 2026-11-23 |
 | **Medtronic** | [Intern Maintenance](https://jobseveryhour.com/job/intern-maintenance-medtronic/) | Tijuana, Baja California, Mexico | — | 2026-11-23 |
 | **Baxter** | [Co-op Mechanical Engineering R&D](https://jobseveryhour.com/job/co-op-mechanical-engineering-r-d-baxter/) | Skaneateles, NY | — | 2026-11-23 |
-| **General Motors** | [Engineering Intern / New Product Launches](https://jobseveryhour.com/job/engineering-intern-new-product-launches-general-motors/) | Silao, Guanajuato, Mexico | — | 2026-11-23 |
+| **General Motors** | [Engineering Intern, New Product Launches](https://jobseveryhour.com/job/engineering-intern-new-product-launches-general-motors/) | Silao, Guanajuato, Mexico | — | 2026-11-23 |
 | **GlobalFoundries** | [Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027)](https://jobseveryhour.com/job/advanced-manufacturing-engineering-intern-process-equipment-globalfoundries-3/) | USA - New York - Malta | — | 2026-11-23 |
-| **GlobalFoundries** | [Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027)](https://jobseveryhour.com/job/advanced-manufacturing-engineering-intern-process-equipment-globalfoundries-4/) | USA - New York - Malta | — | 2026-11-23 |
-| **GlobalFoundries** | [Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027)](https://jobseveryhour.com/job/advanced-manufacturing-engineering-intern-process-equipment-globalfoundries-5/) | USA - New York - Malta | — | 2026-11-23 |
 | **GlobalFoundries** | [Manufacturing Operations Engineer Intern (Summer 2027)](https://jobseveryhour.com/job/manufacturing-operations-engineer-intern-summer-2027-globalfoundries/) | USA - New York - Malta | — | 2026-11-23 |
-| **GlobalFoundries** | [Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027)](https://jobseveryhour.com/job/advanced-manufacturing-engineering-intern-process-equipment-globalfoundries-6/) | USA - New York - Malta | — | 2026-11-23 |
-| **GlobalFoundries** | [Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027)](https://jobseveryhour.com/job/advanced-manufacturing-engineering-intern-process-equipment-globalfoundries-7/) | USA - New York - Malta | — | 2026-11-23 |
 | **Centene** | [Business Analyst Graduate Summer Intern](https://jobseveryhour.com/job/business-analyst-graduate-summer-intern-centene/) | Remote-MO | — | 2026-11-23 |
 | **Zebra** | [2027 Summer Internship (US) – WWAN Cellular Engineer](https://jobseveryhour.com/job/2027-summer-internship-us-wwan-cellular-engineer-zebra/) | Holtsville, New York | — | 2026-11-23 |
 | **Takeda** | [2027 Summer Internship Program: Statistics Clinical Data Science Intern](https://jobseveryhour.com/job/2027-summer-internship-program-statistics-clinical-data-scie-takeda/) | Boston, MA | — | 2026-11-23 |
@@ -113,21 +162,44 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Takeda** | [2027 Summer Internship Program: AI/ML Digital Pathology Imaging Intern](https://jobseveryhour.com/job/2027-summer-internship-program-ai-ml-digital-pathology-imagi-takeda/) | Boston, MA | — | 2026-11-23 |
 | **Takeda** | [2027 Summer Internship Program: AI/ML in Quantitative Clinical Pharmacology Intern](https://jobseveryhour.com/job/2027-summer-internship-program-ai-ml-in-quantitative-clinica-takeda/) | Boston, MA | — | 2026-11-23 |
 | **Takeda** | [2027 Summer Internship Program: Global Patient Access Strategy and Operations](https://jobseveryhour.com/job/2027-summer-internship-program-global-patient-access-strateg-takeda/) | USA - MA - Cambridge - Kendall Square - 500 | — | 2026-11-23 |
+| **Larson Design** | [Summer Intern - Highway Engineering](https://jobseveryhour.com/job/summer-intern-highway-engineering-larson-design/) | Williamsport, PA | $20 - $22 an hour | 2026-11-23 |
+| **Larson Design** | [Summer Intern - Highway Engineering](https://jobseveryhour.com/job/summer-intern-highway-engineering-larson-design-2/) | Selinsgrove, PA | $20 - $22 an hour | 2026-11-23 |
+| **Larson Design** | [Summer Intern - Highway Engineering](https://jobseveryhour.com/job/summer-intern-highway-engineering-larson-design-3/) | Pittsburgh, PA | $20 - $22 an hour | 2026-11-23 |
+| **Larson Design** | [Summer Intern - Highway Engineering](https://jobseveryhour.com/job/summer-intern-highway-engineering-larson-design-4/) | King of Prussia, PA | $20 - $22 an hour | 2026-11-23 |
+| **Larson Design** | [Summer Intern - Highway Engineering](https://jobseveryhour.com/job/summer-intern-highway-engineering-larson-design-5/) | Lititz, PA | $20 - $22 an hour | 2026-11-23 |
+| **Larson Design** | [Summer Intern - Highway Engineering](https://jobseveryhour.com/job/summer-intern-highway-engineering-larson-design-6/) | Harrisburg, PA | $20 - $22 an hour | 2026-11-23 |
+| **FamFluence** | [Monetization & Data Analytics Intern](https://jobseveryhour.com/job/monetization-data-analytics-intern-famfluence/) | Remote | — | 2026-11-23 |
+| **RTX** | [Systems Engineering Co-Op Summer/Fall 2027 - Onsite](https://jobseveryhour.com/job/systems-engineering-co-op-summer-fall-2027-onsite-rtx/) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | — | 2026-11-23 |
+| **RTX** | [Systems Engineering Intern Summer 2027 - Onsite](https://jobseveryhour.com/job/systems-engineering-intern-summer-2027-onsite-rtx-4/) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | — | 2026-11-23 |
+| **RTX** | [Mechanical Engineering Intern (Summer 2027)](https://jobseveryhour.com/job/mechanical-engineering-intern-summer-2027-rtx-2/) | US-TX-RICHARDSON-461 ~ 3200 E Renner Rd ~ RENNER BLDG 461 | — | 2026-11-23 |
+| **RTX** | [Electrical Engineering Electromagnetic Environmental Effects Intern (Summer 2027)](https://jobseveryhour.com/job/electrical-engineering-electromagnetic-environmental-effects-rtx/) | US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02 | — | 2026-11-23 |
+| **RTX** | [Avionics Supplier Quality Intern (Summer 2027)](https://jobseveryhour.com/job/avionics-supplier-quality-intern-summer-2027-rtx/) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | — | 2026-11-23 |
+| **RTX** | [Embedded System Engineering Intern](https://jobseveryhour.com/job/embedded-system-engineering-intern-rtx/) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | — | 2026-11-23 |
+| **RTX** | [Systems Engineer, Intern](https://jobseveryhour.com/job/systems-engineer-intern-rtx/) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS | — | 2026-11-23 |
+| **Procter & Gamble** | [Data Science Intern (Semester 2027) - P&G Management Internship Program - Bachelor's Degree or above](https://jobseveryhour.com/job/data-science-intern-semester-2027-p-g-management-internship-procter-gamble/) | SINGAPORE GENERAL OFFICE | — | 2026-11-23 |
+| **GE HealthCare** | [FP&A Cash Analyst Intern - Stagiaire Analyste Financier – FP&A / Trésorerie](https://jobseveryhour.com/job/fp-a-cash-analyst-intern-stagiaire-analyste-financier-fp-a-t-ge-healthcare/) | Buc | — | 2026-11-23 |
+| **Bose Korea** | [Customer Quality Engineer Co-op](https://jobseveryhour.com/job/customer-quality-engineer-co-op-bose-korea/) | US, MI - Bloomfield Hills | — | 2026-11-23 |
+| **FHLB Dallas** | [2027 Summer Digital Transformation Intern](https://jobseveryhour.com/job/2027-summer-digital-transformation-intern-fhlb-dallas/) | Irving, TX | — | 2026-11-23 |
+| **iKnowHow S.A.** | [Financial Project Manager Intern](https://jobseveryhour.com/job/financial-project-manager-intern-iknowhow-s-a-2/) | Neo Psychiko, Attica, Greece | — | 2026-11-23 |
+| **Cadence** | [Software Engineering Intern - Circuit Simulation](https://jobseveryhour.com/job/software-engineering-intern-circuit-simulation-cadence/) | AUSTIN | — | 2026-11-23 |
+| **Cadence** | [Digital Electronics Engineering Intern (3-6 months)](https://jobseveryhour.com/job/digital-electronics-engineering-intern-3-6-months-cadence/) | EDINBURGH 01 | — | 2026-11-23 |
+| **Booz Allen Hamilton** | [University - 2027 Summer Games Systems Engineer Intern - El Segundo, CA](https://jobseveryhour.com/job/university-2027-summer-games-systems-engineer-intern-el-segu-booz-allen-hamilton/) | El Segundo, CA | $53K - $108K | 2026-11-23 |
+| **Booz Allen Hamilton** | [University - 2027 Summer Games Cyber Security Intern - McLean, VA](https://jobseveryhour.com/job/university-2027-summer-games-cyber-security-intern-mclean-va-booz-allen-hamilton/) | McLean, VA | — | 2026-11-23 |
 | **Cell Signaling Technology** | [Environmental & Social Responsibility / Sustainability Internship](https://jobseveryhour.com/job/environmental-social-responsibility-sustainability-internshi-cell-signaling-technology/) | DANVERS, MA | — | 2026-11-22 |
 | **Skynrg** | [IT Operations Internship](https://jobseveryhour.com/job/it-operations-internship-skynrg/) | Amsterdam | — | 2026-11-22 |
 | **Neros Technologies** | [Firmware/Embedded Software Engineer Intern - Summer 2027](https://jobseveryhour.com/job/firmware-embedded-software-engineer-intern-summer-2027-neros-technologies/) | Torrance, California, United States | — | 2026-11-21 |
 | **KLH Engineers** | [2027 Project Assistant - Summer Internship](https://jobseveryhour.com/job/2027-project-assistant-summer-internship-klh-engineers/) | Pittsburgh, PA | — |  |
 | **HPE** | [Networking & Cybersecurity Intern](https://jobseveryhour.com/job/networking-cybersecurity-intern-hpe/) | San Jose, California, United States of America | — | 2026-11-22 |
 | **HPE** | [Networking & Cybersecurity Intern](https://jobseveryhour.com/job/networking-cybersecurity-intern-hpe-2/) | Westford, Massachusetts, United States of America | — | 2026-11-22 |
-| **Agile Space Industries** | [Summer Intern 2027 / Quality Engineer](https://jobseveryhour.com/job/summer-intern-2027-quality-engineer-agile-space-industries/) | Durango, CO, USA | — | 2026-11-20 |
-| **Agile Space Industries** | [Summer Intern 2027 / Test Engineer](https://jobseveryhour.com/job/summer-intern-2027-test-engineer-agile-space-industries/) | Durango, CO, USA | $21 - $25 an hour | 2026-11-20 |
-| **Agile Space Industries** | [Summer Intern 2027 / Manufacturing Engineer](https://jobseveryhour.com/job/summer-intern-2027-manufacturing-engineer-agile-space-industries/) | Durango, CO, USA | — | 2026-11-20 |
+| **Agile Space Industries** | [Summer Intern 2027, Quality Engineer](https://jobseveryhour.com/job/summer-intern-2027-quality-engineer-agile-space-industries/) | Durango, CO, USA | — | 2026-11-20 |
+| **Agile Space Industries** | [Summer Intern 2027, Test Engineer](https://jobseveryhour.com/job/summer-intern-2027-test-engineer-agile-space-industries/) | Durango, CO, USA | $21 - $25 an hour | 2026-11-20 |
+| **Agile Space Industries** | [Summer Intern 2027, Manufacturing Engineer](https://jobseveryhour.com/job/summer-intern-2027-manufacturing-engineer-agile-space-industries/) | Durango, CO, USA | — | 2026-11-20 |
 | **Neros Technologies** | [Mechanical Engineer Intern - Summer 2027](https://jobseveryhour.com/job/mechanical-engineer-intern-summer-2027-neros-technologies/) | Torrance, California, United States | — | 2026-11-21 |
 | **Neros Technologies** | [Electrical Engineering Intern - Summer 2027](https://jobseveryhour.com/job/electrical-engineering-intern-summer-2027-neros-technologies/) | Torrance, California, United States | — | 2026-11-21 |
 | **Neros Technologies** | [Autonomy Intern - Summer 2027](https://jobseveryhour.com/job/autonomy-intern-summer-2027-neros-technologies/) | Torrance, California, United States | — | 2026-11-21 |
-| **Agile Space Industries** | [Summer Intern 2027 / Additive Engineer](https://jobseveryhour.com/job/summer-intern-2027-additive-engineer-agile-space-industries/) | Durango, CO, USA | — | 2026-11-20 |
-| **Agile Space Industries** | [Summer Intern 2027 / Materials & Process Engineer](https://jobseveryhour.com/job/summer-intern-2027-materials-process-engineer-agile-space-industries/) | Durango, CO, USA | $21 - $25 an hour | 2026-11-20 |
-| **Agile Space Industries** | [Summer Intern 2027 / Propulsion Design Engineer](https://jobseveryhour.com/job/summer-intern-2027-propulsion-design-engineer-agile-space-industries/) | Durango, CO, USA | $21 - $25 an hour | 2026-11-21 |
+| **Agile Space Industries** | [Summer Intern 2027, Additive Engineer](https://jobseveryhour.com/job/summer-intern-2027-additive-engineer-agile-space-industries/) | Durango, CO, USA | — | 2026-11-20 |
+| **Agile Space Industries** | [Summer Intern 2027, Materials & Process Engineer](https://jobseveryhour.com/job/summer-intern-2027-materials-process-engineer-agile-space-industries/) | Durango, CO, USA | $21 - $25 an hour | 2026-11-20 |
+| **Agile Space Industries** | [Summer Intern 2027, Propulsion Design Engineer](https://jobseveryhour.com/job/summer-intern-2027-propulsion-design-engineer-agile-space-industries/) | Durango, CO, USA | $21 - $25 an hour | 2026-11-21 |
 | **Clera** | [Strategic Operations Intern](https://jobseveryhour.com/job/strategic-operations-intern-clera-3/) | New York · Remote | — | 2026-11-21 |
 | **Lucid Motors** | [Intern, Exterior Design, Summer 2027](https://jobseveryhour.com/job/intern-exterior-design-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-20 |
 | **Lucid Motors** | [Intern, ADAS Platform Tools, Summer 2027](https://jobseveryhour.com/job/intern-adas-platform-tools-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-20 |
@@ -175,11 +247,11 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Montgomery Investment Technology** | [Computer Programming Internship Winter 2027](https://jobseveryhour.com/job/computer-programming-internship-winter-2027-montgomery-investment-technology/) | Cinnaminson, NJ | — |  |
 | **Innovation Works** | [Scale Prototyping Shop Intern - Innovation Works, Inc.](https://jobseveryhour.com/job/scale-prototyping-shop-intern-innovation-works-inc-innovation-works/) | Pittsburgh, PA | — |  |
 | **The Falcon** | [Internship Opportunities - MEP Engineering](https://jobseveryhour.com/job/internship-opportunities-mep-engineering-the-falcon/) | Warren, NJ | — |  |
+| **Procter & Gamble** | [R&D Associate Researcher Intern (Diploma - Chemistry, Life Sciences or Engineering)](https://jobseveryhour.com/job/r-d-associate-researcher-intern-diploma-chemistry-life-scien-procter-gamble/) | Singapore | — | 2026-11-21 |
 | **Zendar** | [PhD Research Intern — Learned End-to-End Driving and Actuation](https://jobseveryhour.com/job/phd-research-intern-learned-end-to-end-driving-and-actuation-zendar/) | Berkeley, California, United States | $55 an hour | 2026-10-13 |
 | **LayerZero Power Systems** | [Electrical Engineering Intern - Power Systems](https://jobseveryhour.com/job/electrical-engineering-intern-power-systems-layerzero-power-systems/) | Raleigh, NC, USA | — | 2026-11-20 |
 | **LayerZero Power Systems** | [Electrical Engineering Intern - Power Systems](https://jobseveryhour.com/job/electrical-engineering-intern-power-systems-layerzero-power-systems-2/) | Raleigh, NC, USA | — | 2026-11-20 |
 | **Toole Design** | [Engineering Intern](https://jobseveryhour.com/job/engineering-intern-toole-design/) | Columbus, OH, USA | $20 - $24 an hour | 2026-11-20 |
-| **Election Systems & Software** | [Summer Internship 2027 - Business Operations](https://jobseveryhour.com/job/summer-internship-2027-business-operations-election-systems-software/) | Omaha, NE, USA | $20 an hour | 2026-10-02 |
 | **ATOMS** | [Industrial Engineering Intern - Operations & Process Excellence](https://jobseveryhour.com/job/industrial-engineering-intern-operations-process-excellence-atoms/) | Nova Lima, BRA | — | 2026-11-20 |
 | **ATOMS** | [Mechanical Engineering & Technical Documentation Intern - Hardware Systems](https://jobseveryhour.com/job/mechanical-engineering-technical-documentation-intern-hardwa-atoms/) | Nova Lima, Brazil | — | 2026-11-20 |
 | **Lucid Motors** | [Power Electronics Control Engineer Intern, Summer 2027](https://jobseveryhour.com/job/power-electronics-control-engineer-intern-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-20 |
@@ -194,12 +266,12 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Upvest** | [Compliance Analyst Intern (f/m/d)](https://jobseveryhour.com/job/compliance-analyst-intern-f-m-d-upvest/) | London | — | 2026-11-20 |
 | **Morrison-Maierle** | [Mechanical Engineer Internship](https://jobseveryhour.com/job/mechanical-engineer-internship-morrison-maierle/) | Bozeman, MT | — | 2026-11-20 |
 | **HB Wealth** | [Investment Research Analyst Intern](https://jobseveryhour.com/job/investment-research-analyst-intern-hb-wealth/) | Towson, MD, USA | — | 2026-11-20 |
-| **Black & McDonald** | [Intern- IT Help Desk (Winter)](https://jobseveryhour.com/job/intern-it-help-desk-winter-black-mcdonald/) | Edmonton, Alberta, Canada | — | 2026-11-05 |
+| **Black & McDonald** | [Intern - IT Help Desk (Winter)](https://jobseveryhour.com/job/intern-it-help-desk-winter-black-mcdonald/) | Edmonton, Alberta, Canada | — | 2026-11-05 |
 | **Morrison-Maierle** | [Structural Engineer Internship](https://jobseveryhour.com/job/structural-engineer-internship-morrison-maierle/) | Bozeman, MT | — | 2026-11-20 |
 | **Morrison-Maierle** | [Electrical Engineer Internship](https://jobseveryhour.com/job/electrical-engineer-internship-morrison-maierle-3/) | Bozeman, MT | — | 2026-11-20 |
 | **Currentsurgical** | [BME/ME Research and Prototyping Engineer (co-op)](https://jobseveryhour.com/job/bme-me-research-and-prototyping-engineer-co-op-currentsurgical-2/) | San Francisco | — | 2026-11-20 |
 | **Christa Construction** | [Construction Intern](https://jobseveryhour.com/job/construction-intern-christa-construction/) | Rochester, NY, USA | $20 - $23 an hour | 2026-09-22 |
-| **Shive Hattery** | [Internship- Civil Engineering](https://jobseveryhour.com/job/internship-civil-engineering-shive-hattery/) | Bettendorf, IA, USA | — | 2026-11-20 |
+| **Shive Hattery** | [Internship - Civil Engineering](https://jobseveryhour.com/job/internship-civil-engineering-shive-hattery/) | Bettendorf, IA, USA | — | 2026-11-20 |
 | **Shive Hattery** | [Internship - Construction Services Civil Engineering](https://jobseveryhour.com/job/internship-construction-services-civil-engineering-shive-hattery/) | Iowa City, IA, USA | — | 2026-11-20 |
 | **Shive Hattery** | [Internship - Structural Engineering](https://jobseveryhour.com/job/internship-structural-engineering-shive-hattery/) | Iowa City, IA, USA | — | 2026-11-20 |
 | **Shive Hattery** | [Internship - Civil Engineering](https://jobseveryhour.com/job/internship-civil-engineering-shive-hattery-2/) | Ralston, NE, USA | — | 2026-11-20 |
@@ -238,78 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Peak Construction** | [Project Engineer Intern 2027 (Mid-West Region)](https://jobseveryhour.com/job/project-engineer-intern-2027-mid-west-region-peak-construction/) | Rosemont, IL | — |  |
 | **Payreto** | [Full Stack Developer Intern](https://jobseveryhour.com/job/full-stack-developer-intern-payreto/) | Makati City, Metro Manila, Philippines | — | 2026-11-20 |
 | **USG Insurance Services** | [Graphic & Web Design Internship](https://jobseveryhour.com/job/graphic-web-design-internship-usg-insurance-services/) | Canonsburg, PA | — |  |
-| **Gaming Innovation** | [Sports Data Analyst - Internship](https://jobseveryhour.com/job/sports-data-analyst-internship-gaming-innovation/) | Toulouse | — |  |
-| **Together** | [Business Operations Intern - Spring](https://jobseveryhour.com/job/business-operations-intern-spring-together/) | New York | — |  |
-| **Lanco Integrated** | [Controls Programming (PLC) Intern](https://jobseveryhour.com/job/controls-programming-plc-intern-lanco-integrated/) | Westbrook, ME | — |  |
-| **Lanco Integrated** | [Engineering Intern – Electrical Controls Focus](https://jobseveryhour.com/job/engineering-intern-electrical-controls-focus-lanco-integrated/) | Westbrook, ME | — |  |
-| **Lanco Integrated** | [Engineering Intern – Mechanical Focus](https://jobseveryhour.com/job/engineering-intern-mechanical-focus-lanco-integrated/) | Westbrook, ME | — |  |
-| **Lanco Integrated** | [Manufacturing Engineer Intern](https://jobseveryhour.com/job/manufacturing-engineer-intern-lanco-integrated/) | Westbrook, ME | — |  |
-| **Prospect Equities** | [Backend / Frontend Developer Intern](https://jobseveryhour.com/job/backend-frontend-developer-intern-prospect-equities/) | Chicago, IL | — |  |
-| **The Industrial Solutions Network of CED** | [Engineering Internship (Career Fair)](https://jobseveryhour.com/job/engineering-internship-career-fair-the-industrial-solutions-network-of-ced/) | Kansas City, MO | — |  |
-| **The Industrial Solutions Network of CED** | [Engineering Internship - ISU](https://jobseveryhour.com/job/engineering-internship-isu-the-industrial-solutions-network-of-ced/) | Kansas City, MO | — |  |
-| **American Electric Power** | [Line Mechanic Intern](https://jobseveryhour.com/job/line-mechanic-intern-american-electric-power-2/) | Tulsa, OK | — | 2026-11-20 |
-| **HCSC** | [Early Careers - Business Analyst Intern](https://jobseveryhour.com/job/early-careers-business-analyst-intern-hcsc/) | IL - Chicago; TX - Richardson | — | 2026-11-20 |
-| **MUFG** | [6 month Internship – Credit Analyst – March 2027](https://jobseveryhour.com/job/6-month-internship-credit-analyst-march-2027-mufg/) | Paris | — | 2026-11-20 |
-| **KION Group** | [Java Software Engineer Intern](https://jobseveryhour.com/job/java-software-engineer-intern-kion-group/) | Kaunas, Lithuania; Vilnius, Lithuania | — | 2026-11-20 |
-| **Booz Allen Hamilton** | [University - 2027 Summer Games Systems Engineer Intern - McLean, VA](https://jobseveryhour.com/job/university-2027-summer-games-systems-engineer-intern-mclean-booz-allen-hamilton/) | McLean, VA | $53K - $108K | 2026-11-20 |
-| **Leidos** | [Data Engineer Intern](https://jobseveryhour.com/job/data-engineer-intern-leidos/) | Fort Belvoir, VA | $42K - $75K | 2026-11-20 |
-| **Syblon Reid** | [Project Engineer Internship- FRESNO](https://jobseveryhour.com/job/project-engineer-internship-fresno-syblon-reid/) | Fresno, CA | — |  |
-| **Syblon Reid** | [Project Engineer Summer Internship](https://jobseveryhour.com/job/project-engineer-summer-internship-syblon-reid/) | FOLSOM, CA | — |  |
-| **Otis** | [Data Science & Analytics Intern](https://jobseveryhour.com/job/data-science-analytics-intern-otis/) | OTCTH: Connecticut Home Offices Remote Location, Remote City, CT, 06032 USA | — | 2026-11-20 |
-| **First PREMIER Bank** | [PREMIER Service Desk Internship](https://jobseveryhour.com/job/premier-service-desk-internship-first-premier-bank/) | Sioux Falls, SD | — | 2026-11-20 |
-| **First PREMIER Bank** | [PREMIER Information Security Intern](https://jobseveryhour.com/job/premier-information-security-intern-first-premier-bank/) | Sioux Falls, SD | — | 2026-11-20 |
-| **Rolling Wireless** | [Firmware Integration Engineer Intern](https://jobseveryhour.com/job/firmware-integration-engineer-intern-rolling-wireless/) | Budapest, Central Hungary, Hungary | — | 2026-11-20 |
-| **Consigli Construction** | [Estimating Intern (Summer 2027)](https://jobseveryhour.com/job/estimating-intern-summer-2027-consigli-construction-8/) | Washington, District of Columbia, United States | — | 2026-11-20 |
-| **Game District** | [Game Design Intern](https://jobseveryhour.com/job/game-design-intern-game-district/) | Lahore, Punjab, Pakistan | — | 2026-11-20 |
-| **Global Infrastructure** | [Intern Engineering Designer, Bridge](https://jobseveryhour.com/job/intern-engineering-designer-bridge-global-infrastructure-8/) | US / AZ / Scottsdale - 1475 North Scottsdale Road | — | 2026-11-20 |
-| **Global Infrastructure** | [Intern Engineering Designer, Bridge](https://jobseveryhour.com/job/intern-engineering-designer-bridge-global-infrastructure-9/) | US / VA / Alexandria - 5301 Shawnee Road | — | 2026-11-20 |
-| **Global Infrastructure** | [Intern Engineering Designer, Bridge](https://jobseveryhour.com/job/intern-engineering-designer-bridge-global-infrastructure-10/) | US / NJ / Parsippany - 6 Campus Drive | — | 2026-11-20 |
-| **Moog** | [Intern, Electrical Engineering](https://jobseveryhour.com/job/intern-electrical-engineering-moog/) | Buffalo, NY | — | 2026-11-20 |
-| **GE Aerospace** | [Intern - Quality Control](https://jobseveryhour.com/job/intern-quality-control-ge-aerospace/) | Subang | — | 2026-11-20 |
-| **Granite Construction** | [Engineer Intern](https://jobseveryhour.com/job/engineer-intern-granite-construction-4/) | Eureka, California | — | 2026-11-20 |
-| **Valeo** | [Systems Engineering Co-Op (Software)](https://jobseveryhour.com/job/systems-engineering-co-op-software-valeo/) | Troy, MI | — | 2026-11-20 |
-| **Reserve Bank** | [2027 Summer Internship Program - Credit Risk Management Intern](https://jobseveryhour.com/job/2027-summer-internship-program-credit-risk-management-intern-reserve-bank/) | Atlanta, GA | — | 2026-11-20 |
-| **GlobalFoundries** | [Device Engineering Intern, Silicon Photonics (Summer 2027)](https://jobseveryhour.com/job/device-engineering-intern-silicon-photonics-summer-2027-globalfoundries-2/) | USA - New York - Malta | — | 2026-11-20 |
-| **GlobalFoundries** | [Fab Systems Setup & Routing Intern (Summer 2027)](https://jobseveryhour.com/job/fab-systems-setup-routing-intern-summer-2027-globalfoundries/) | USA - Vermont - Essex Junction | — | 2026-11-20 |
-| **GlobalFoundries** | [Contamination Free Manufacturing (CFM) Intern (Summer 2027)](https://jobseveryhour.com/job/contamination-free-manufacturing-cfm-intern-summer-2027-globalfoundries/) | USA - Vermont - Essex Junction | — | 2026-11-20 |
-| **GlobalFoundries** | [AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)](https://jobseveryhour.com/job/ai-ml-analytics-intern-digital-manufacturing-summer-2027-globalfoundries/) | USA - New York - Malta | — | 2026-11-20 |
-| **Thomson Reuters** | [Research Intern - Agentic AI / NLP / ML](https://jobseveryhour.com/job/research-intern-agentic-ai-nlp-ml-thomson-reuters/) | United Kingdom, London | — | 2026-11-20 |
-| **Thomson Reuters** | [Research Intern - KG / Agentic AI / ML](https://jobseveryhour.com/job/research-intern-kg-agentic-ai-ml-thomson-reuters/) | United Kingdom, London | — | 2026-11-20 |
-| **The Coca-Cola Company** | [Public Affairs, Communication and Sustainability Intern](https://jobseveryhour.com/job/public-affairs-communication-and-sustainability-intern-the-coca-cola-company/) | Turkey - Istanbul | — | 2026-11-20 |
-| **Hitachi** | [Software Engineer Intern (Cross Project Tools)](https://jobseveryhour.com/job/software-engineer-intern-cross-project-tools-hitachi/) | Singapore, Central Singapore, Singapore | — | 2026-11-20 |
-| **Hitachi** | [Cybersecurity Engineer Intern](https://jobseveryhour.com/job/cybersecurity-engineer-intern-hitachi/) | Singapore, Central Singapore, Singapore | — | 2026-11-20 |
-| **Hitachi** | [Generative AI Intern](https://jobseveryhour.com/job/generative-ai-intern-hitachi/) | Singapore, Central Singapore, Singapore | — | 2026-11-20 |
-| **Hitachi** | [Software Engineer Intern (Cross Project Tools)](https://jobseveryhour.com/job/software-engineer-intern-cross-project-tools-hitachi-2/) | Singapore, Central Singapore, Singapore | — | 2026-11-20 |
-| **Hitachi** | [Software Engineer Intern (Simulation & Validator Systems)](https://jobseveryhour.com/job/software-engineer-intern-simulation-validator-systems-hitachi/) | Singapore, Central Singapore, Singapore | — | 2026-11-20 |
-| **Feyen Zylstra** | [Virtual Design and Construction (VDC) Intern](https://jobseveryhour.com/job/virtual-design-and-construction-vdc-intern-feyen-zylstra/) | Grand Rapids, Michigan, United States | — | 2026-11-20 |
-| **Feyen Zylstra** | [Help Desk / IT Intern](https://jobseveryhour.com/job/help-desk-it-intern-feyen-zylstra/) | Grand Rapids, Michigan, United States | — | 2026-11-20 |
-| **South Alabama Regional Planning Commission** | [Community Planning & Economic Development Intern](https://jobseveryhour.com/job/community-planning-economic-development-intern-south-alabama-regional-planning-commission/) | Mobile, Alabama, United States | — | 2026-11-20 |
-| **The Aerospace Corporation** | [2027 Enterprise Resiliency Modeling and Simulation Undergraduate Intern](https://jobseveryhour.com/job/2027-enterprise-resiliency-modeling-and-simulation-undergrad-the-aerospace-corporation/) | Chantilly, VA | — | 2026-11-20 |
-| **The Aerospace Corporation** | [2027 Software Systems Engineer and Acquisition Grad Intern](https://jobseveryhour.com/job/2027-software-systems-engineer-and-acquisition-grad-intern-the-aerospace-corporation/) | El Segundo, CA; Chantilly, VA | — | 2026-11-20 |
-| **McCarthy Bush** | [Intern - Construction Management (Summer 2027) McCarthy Improvement (Davenport, IA)](https://jobseveryhour.com/job/intern-construction-management-summer-2027-mccarthy-improvem-mccarthy-bush/) | Davenport, Iowa, United States | — | 2026-11-20 |
-| **TMX** | [Junior Vulnerability Management Analyst Intern](https://jobseveryhour.com/job/junior-vulnerability-management-analyst-intern-tmx/) | Toronto - 100 Adelaide St W | — | 2026-11-20 |
-| **Johnson Controls** | [Production Engineering Co-Op](https://jobseveryhour.com/job/production-engineering-co-op-johnson-controls/) | Burlington-Massachusetts-United States of America | — | 2026-11-20 |
-| **NVIDIA** | [Accounting AI Solution Engineer Intern - Summer 2027](https://jobseveryhour.com/job/accounting-ai-solution-engineer-intern-summer-2027-nvidia/) | US, CA, Santa Clara | — | 2026-11-20 |
-| **NVIDIA** | [Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027](https://jobseveryhour.com/job/technical-marketing-engineering-intern-digital-biology-and-s-nvidia/) | US, CA, Santa Clara | — | 2026-11-20 |
-| **NVIDIA** | [GPU Firmware Intern - 2027](https://jobseveryhour.com/job/gpu-firmware-intern-2027-nvidia/) | Taiwan, Taipei | — | 2026-11-20 |
-| **NVIDIA** | [Mixed Signal Analog Circuit Designer (RDSS Intern)](https://jobseveryhour.com/job/mixed-signal-analog-circuit-designer-rdss-intern-nvidia/) | Taiwan, Hsinchu; Taiwan, Taipei | — | 2026-11-20 |
-| **NVIDIA** | [Mixed Signal Design Engineer (RDSS intern)](https://jobseveryhour.com/job/mixed-signal-design-engineer-rdss-intern-nvidia/) | Taiwan, Hsinchu; Taiwan, Taipei | — | 2026-11-20 |
-| **NVIDIA** | [Mixed Signal Analog Circuit Designer (RDSS Intern)](https://jobseveryhour.com/job/mixed-signal-analog-circuit-designer-rdss-intern-nvidia-2/) | Taiwan, Taipei; Taiwan, Hsinchu | — | 2026-11-20 |
-| **CME** | [Desktop Support Intern - Year-Round](https://jobseveryhour.com/job/desktop-support-intern-year-round-cme/) | Chicago - 20 S. Wacker | — | 2026-11-20 |
-| **General Motors** | [2027 Summer Intern - Cybersecurity Education & Awareness Program Intern](https://jobseveryhour.com/job/2027-summer-intern-cybersecurity-education-awareness-program-general-motors/) | Warren, Michigan, United States of America | — | 2026-11-20 |
-| **Southern Poverty Law Center** | [Intern, IT Project Management (Summer 2027)](https://jobseveryhour.com/job/intern-it-project-management-summer-2027-southern-poverty-law-center/) | Montgomery, AL; Atlanta, GA | — | 2026-11-19 |
-| **Lucid Motors** | [Intern, Software QA Engineer, Infotainment, Summer 2027](https://jobseveryhour.com/job/intern-software-qa-engineer-infotainment-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-19 |
-| **Lucid Motors** | [Intern, AI & Data (Applied AI/Machine Learning), Summer 2027](https://jobseveryhour.com/job/intern-ai-data-applied-ai-machine-learning-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-19 |
-| **Lucid Motors** | [Intern, Motor Control Software Development and Validation Engineer, Summer 2027](https://jobseveryhour.com/job/intern-motor-control-software-development-and-validation-eng-lucid-motors/) | Newark, CA | — | 2026-11-19 |
-| **Waymo** | [2027 Summer Intern, PhD, Agentic AI](https://jobseveryhour.com/job/2027-summer-intern-phd-agentic-ai-waymo/) | Mountain View, California, United States | — | 2026-11-19 |
-| **Lucid Motors** | [Intern, Software Engineer, SDET, Summer 2027](https://jobseveryhour.com/job/intern-software-engineer-sdet-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-19 |
-| **Lucid Motors** | [Intern, Simulation & Virtualization Engineer, Summer 2027](https://jobseveryhour.com/job/intern-simulation-virtualization-engineer-summer-2027-lucid-motors/) | Newark, CA | — | 2026-11-19 |
-| **QuEra Computing, Inc.** | [Intern, Quantum Calibrations, Quantum Computing Services](https://jobseveryhour.com/job/intern-quantum-calibrations-quantum-computing-services-quera-computing-inc/) | Boston, MA, USA | — | 2026-11-19 |
-| **Snowflake** | [Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027](https://jobseveryhour.com/job/software-engineer-intern-core-infrastructure-security-summer-snowflake/) | US-CA-Menlo Park | $42 - $60 an hour | 2026-11-19 |
-| **Snowflake** | [Software Engineer Intern (AI / ML) - Summer 2027](https://jobseveryhour.com/job/software-engineer-intern-ai-ml-summer-2027-snowflake/) | US-CA-Menlo Park | $42 - $60 an hour | 2026-11-19 |
-| **Snowflake** | [Software Engineer Intern (Database Engineering) - Summer 2027](https://jobseveryhour.com/job/software-engineer-intern-database-engineering-summer-2027-snowflake/) | US-CA-Menlo Park | $42 - $60 an hour | 2026-11-19 |
-| **Samsung Research America Internship** | [2027 Spring Intern, Memory Subsystem, SoC Architecture](https://jobseveryhour.com/job/2027-spring-intern-memory-subsystem-soc-architecture-samsung-research-america-internship/) | 665 Clyde Avenue, Mountain View, CA, USA | — | 2026-11-19 |
-| **Minitab** | [Data Privacy Intern (Summer 2027)](https://jobseveryhour.com/job/data-privacy-intern-summer-2027-minitab/) | State College, Pennsylvania, United States | — | 2026-11-19 |
 
 ## More
 
